@@ -1,0 +1,6 @@
+{
+  "name": "Generador de Respuestas Anti-Culpa",
+  "description": "Un simulador para generar respuestas asertivas a peticiones no deseadas, ayudándote a establecer límites sin culpa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
